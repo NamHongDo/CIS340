@@ -1,0 +1,6 @@
+temp:/bin/grep
+arr2:grep
+arr2:.c
+arr2:>
+arr2:manga.txt
+arr2:(null)
